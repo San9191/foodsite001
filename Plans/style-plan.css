@@ -1,0 +1,60 @@
+* {
+  margin: 0;
+  padding: 0;
+  line-height: 1.5;
+}
+
+body {
+  font-family: sans-serif;
+  margin-left: 40px;
+}
+
+.main-header {
+  text-align: center;
+  font-size: 32px;
+  padding: 20px 0;
+}
+
+/* div {
+  margin: 20px 10px;
+} */
+
+button {
+  padding: 10px 5px;
+  margin: 10px 0;
+  background-color: green;
+  border: 0;
+}
+
+div {
+  text-align: center;
+  width: 500px;
+  height: auto;
+  border: 5px solid;
+  margin: 20px;
+}
+
+li {
+  list-style-type: none;
+}
+
+ol {
+  width: 500px;
+  list-style-type: none;
+  color: aliceblue;
+  margin: 20px;
+  padding: 0;
+  overflow: hidden;
+  background-color: black;
+}
+
+li a {
+  float: left;
+}
+
+li a {
+  display: block;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
