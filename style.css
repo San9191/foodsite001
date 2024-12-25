@@ -1,6 +1,7 @@
 body {
   text-align: center;
-  background-color: aquamarine;
+  background: linear-gradient(90deg, #38598b, #113f67);
+  color: #d3d6db;
 }
 
 h1 {
@@ -11,3 +12,5 @@ h1 {
 .plans {
   text-align: left;
 }
+
+/* #a2a8d3, #38598b, */

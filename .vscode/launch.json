@@ -10,14 +10,14 @@
       "type": "chrome",
       "request": "launch",
       "name": "Open index.html",
-      "file": "c:\\Users\\hzahr\\OneDrive\\Desktop\\Master Folder\\Projects\\Foodsite\\foodsite001\\index.html"
+      "file": "c:\\Users\\hzahr\\OneDrive\\Desktop\\Master Folder\\Learning\\Udemy\\JS\\JS\\course-material-v2.2\\complete-javascript-course-master\\complete-javascript-course-master\\01-Fundamentals-Part-1\\starter\\index.html"
     }
 
     {
       "type": "msedge",
       "request": "launch",
       "name": "Open Plans.html",
-      "file": "c:\\Users\\hzahr\\OneDrive\\Desktop\\Master Folder\\Projects\\Foodsite\\foodsite001\\Plans\\Plans.html"
+      "file": "c:\\Users\\hzahr\\OneDrive\\Desktop\\Master Folder\\Learning\\Udemy\\JS\\JS\\course-material-v2.2\\complete-javascript-course-master\\complete-javascript-course-master\\01-Fundamentals-Part-1\\starter\\index.html"
     }
   ]
 }

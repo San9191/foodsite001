@@ -7,6 +7,9 @@
 body {
   font-family: sans-serif;
   margin-left: 40px;
+  text-align: center;
+  background: linear-gradient(90deg, #38598b, #113f67);
+  color: #d3d6db;
 }
 
 .main-header {
@@ -40,19 +43,19 @@ li {
 
 ol {
   width: 500px;
+
   list-style-type: none;
-  color: aliceblue;
+  color: #d3d6db;
   margin: 20px;
   padding: 0;
   overflow: hidden;
-  background-color: black;
+  background-color: #005689;
 }
 
 li a {
   float: left;
-}
-
-li a {
+  color: aliceblue;
+  text-align: center;
   display: block;
   text-align: center;
   padding: 16px;
