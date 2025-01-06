@@ -2,40 +2,35 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sign In</title>
     <link href="style.css" rel="stylesheet" />
-    <title>EZ-Meal h Food Mart</title>
   </head>
-  <body>
-    <h1>The perfect food service</h1>
-    <p>This is the main test page of the EZ-Meal website</p>
-    <article>
-      <h2>EZ-Meal: your daily food companion</h2>
-      <p>
-        Welcome to EZ-Meal, your personal chef at the click of a button. We take
-        the guesswork out of meal planning by delivering fresh, chef-crafted,
-        and nutritionally balanced meals right to your door. Whether you're
-        looking to save time, eat healthier, or explore new flavors, our
-        subscription service provides convenience and variety, all tailored to
-        your taste and dietary needs. Enjoy effortless eating with EZ-Meal
-        because delicious, wholesome meals should be easy.
-      </p>
-    </article>
-
-    <p class="plans">
-      <a href="Plans/Plans.html"> Plans </a>
-    </p>
-    <p class="Calc">
-      <a href="CalorieCalc.html"> Calc </a>
-    </p>
-    <ul class="plans">
-      <li>Montreal</li>
-      <li>Toronto</li>
-      <li>New York</li>
-      <li>Chicago</li>
-    </ul>
-
-    <footer>
-      <p>Copyright &COPY; EZ-Meal - 2024</p>
-    </footer>
-  </body>
 </html>
+<body>
+  <div class="background">
+    <div class="login-card">
+      <h2>Login</h2>
+      <form>
+        <div class="input-group">
+          <label for="email">Email</label>
+          <input type="email" id="email" placeholder="Enter your email" />
+        </div>
+        <div class="input-group">
+          <label for="password">Password</label>
+          <input
+            type="password"
+            id="password"
+            placeholder="Enter your password"
+          />
+        </div>
+        <div class="actions">
+          <label> <input type="checkbox" /> Remember Me </label>
+          <a href="#">Forgot Password?</a>
+        </div>
+        <button type="submit">Login</button>
+        <p>Don't have an account? <a href="#">Register</a></p>
+      </form>
+    </div>
+  </div>
+</body>
